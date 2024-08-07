@@ -10,12 +10,12 @@ const CONFIG = {
     github: "superbigpro",
     instagram: "",
   },
-  // projects: [
-  //   {
-  //     name: `leeyeonwoo.me`,
-  //     href: "https://github.com/morethanmin/morethan-log",
-  //   },
-  // ],
+  projects: [
+    {
+      name: `leeyeonwoo.me`,
+      href: "https://github.com/morethanmin/morethan-log",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "leeyeonwoo.me",
