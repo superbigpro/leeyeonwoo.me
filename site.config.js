@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Fullstack Developer",
     bio: "기록하는 습관",
     email: "rexrex1105@gmail.com",
-    // linkedin: "morethanmin",
+    linkedin: "",
     github: "superbigpro",
     instagram: "",
   },
